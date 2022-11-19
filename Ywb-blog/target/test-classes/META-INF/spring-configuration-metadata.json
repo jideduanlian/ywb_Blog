@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "oss",
+      "type": "com.ywb.OccTest",
+      "sourceType": "com.ywb.OccTest"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
